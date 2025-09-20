@@ -20,10 +20,12 @@ You will need to go to - C:\Users\YourUserName\AppData\Local\Activision\Spider-M
 
 Then add all the following lines at the bottom of the file and save it:<br>
 
-id="Windowed"<br>
-       id="MaxCpuCount"<br>
-       id="VideoHz"
+```xml
+<s id="Windowed">0</s>
+<s id="MaxCpuCount">4</s>
+<s id="VideoHz">60</s>
 </r>
+```
 <br><br>
 
 # Instructions
