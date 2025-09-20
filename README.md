@@ -3,7 +3,7 @@
 [![Config](https://img.shields.io/badge/Config-INI-success)](#f)
 [![FOV](https://img.shields.io/badge/FOV-HotkeyToggle-blue?style=flat)](#FOV)
 [![FPS](https://img.shields.io/badge/FPS-HotkeyToggle-purple?style=flat)](#FPS)
-[![PCGamingWiki – Essential improvements](https://img.shields.io/badge/PCGamingWiki-Essential%20improvements-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://www.pcgamingwiki.com/wiki/Spider-Man:_Web_of_Shadows)
+[![PCGamingWiki – Essential improvements](https://img.shields.io/badge/PCGamingWiki-FIX-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://www.pcgamingwiki.com/wiki/Spider-Man:_Web_of_Shadows)
 
 # Spider-Man Web of Shadows PC Fix
 <br><br>
