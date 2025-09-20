@@ -7,6 +7,7 @@
 
 # Spider-Man Web of Shadows PC Fix
 <br><br>
+![ezgif com-animated-gif-maker (4)](https://github.com/user-attachments/assets/bbae27b7-8a88-4d7c-a031-3fd3765ae7eb)
 
 # Requirements before using fix
 
